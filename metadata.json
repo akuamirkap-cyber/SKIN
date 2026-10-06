@@ -1,0 +1,6 @@
+{
+  "name": "Voxel Buddies — Skin 3D",
+  "description": "Skin 3D ala Crossy Road - Koleksi karakter voxel hewan lucu 3D yang interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
